@@ -1,0 +1,26 @@
+{
+  "name": "node-hometask-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7Romuch7/node-hometask-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7Romuch7/node-hometask-1/issues"
+  },
+  "homepage": "https://github.com/7Romuch7/node-hometask-1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "shortid": "^2.2.16",
+    "yargs": "^16.2.0"
+  }
+}
